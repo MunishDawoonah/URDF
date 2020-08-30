@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/deeya/catkin_ws/src/udm_urdf/install/setup.sh

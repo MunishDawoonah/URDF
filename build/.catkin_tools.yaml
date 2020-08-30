@@ -1,0 +1,6 @@
+devel_space: /home/deeya/catkin_ws/src/udm_urdf/devel
+install: false
+install_space: /home/deeya/catkin_ws/src/udm_urdf/install
+profile: default
+source_space: /home/deeya/catkin_ws/src/udm_urdf/src
+workspace: /home/deeya/catkin_ws/src/udm_urdf

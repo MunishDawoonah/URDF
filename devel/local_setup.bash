@@ -1,0 +1,1 @@
+/home/deeya/catkin_ws/src/udm_urdf/devel/.private/catkin_tools_prebuild/local_setup.bash
